@@ -35,6 +35,7 @@ jobs:
         uses: actions/setup-node@v5
       - name: npm install & build React page
         run: |
+          rm -r ./assets
           cd ./react
           npm install
           npm run build
