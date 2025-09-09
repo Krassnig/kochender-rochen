@@ -1,4 +1,4 @@
-import { Recipe } from "@/entities";
+import { Recipe } from "entities";
 import "./RecipePreview.css";
 
 interface Props {

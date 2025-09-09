@@ -1,5 +1,5 @@
-import { Recipe, RecipeDTO } from '@/entities';
-import { convertToRecipes } from '@/lib';
+import { Recipe, RecipeDTO } from 'entities';
+import { convertToRecipes } from 'lib';
 import React, { useEffect, useState } from 'react';
 import { Banner, InfoBox, Search } from '.';
 import './App.css';

@@ -1,8 +1,8 @@
 import { useEffect, useMemo, useState } from "react";
-import { Recipe } from '@/entities';
+import { Recipe } from 'entities';
 import { RecipeList, SearchField, SearchSuggestions } from '.';
 import { InfoBox } from './InfoBox';
-import { rankRecipes } from "@/lib";
+import { rankRecipes } from "lib";
 
 interface Props {
 	recipes: Recipe[];

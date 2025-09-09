@@ -1,4 +1,4 @@
-import { SetState } from "@/types";
+import { SetState } from "types";
 import "./SearchField.css";
 import { useEffect, useState } from "react";
 

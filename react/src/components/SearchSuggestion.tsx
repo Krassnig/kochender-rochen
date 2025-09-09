@@ -1,4 +1,4 @@
-import { SetState } from "@/types";
+import { SetState } from "types";
 import "./SearchSuggestion.css";
 
 interface Props {

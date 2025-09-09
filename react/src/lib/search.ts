@@ -1,4 +1,4 @@
-import { Recipe } from "@/entities";
+import { Recipe } from "entities";
 
 export const rankRecipes = (allRecipes: Recipe[], searchString: string): Recipe[] => {
 	const [includeMap, excludeMap] = Search.parse(searchString);

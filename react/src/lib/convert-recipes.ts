@@ -1,4 +1,4 @@
-import { Recipe, RecipeDTO, Section } from "@/entities";
+import { Recipe, RecipeDTO, Section } from "entities";
 
 export const convertToRecipes = (dtos: RecipeDTO[]): Recipe[] => {
 	return dtos.map(dto => convertToRecipe(dto));
