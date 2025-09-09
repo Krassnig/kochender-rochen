@@ -39,7 +39,7 @@ jobs:
           npm install
           npm run build
           cd ../
-          mv ./react/build/* ./
+          mv ./react/dist/* ./
           rm -r ./react/
       - name: Generate JSON file list
         run: python ./.github/workflows/list.py "./rezept/" "./recipes.json"
