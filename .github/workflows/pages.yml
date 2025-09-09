@@ -34,6 +34,7 @@ jobs:
       - name: Install NPM
         uses: actions/setup-node@v5
       - name: npm install & build React page
+        # rm -r ./assets because of conflict with generated assets file when building react
         run: |
           rm -r ./assets
           cd ./react
