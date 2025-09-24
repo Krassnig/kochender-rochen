@@ -36,13 +36,14 @@ jobs:
       - name: npm install & build React page
         # rm -r ./assets because of conflict with generated assets file when building react
         run: |
-          rm -r ./assets
+          mv ./assets ./assets2
           cd ./react
           npm install
           npm run build
           cd ../
           mv ./react/dist/* ./
           rm -r ./react/
+          mv ./assets2/css ./assets
       - name: Generate JSON file list
         run: python ./.github/workflows/list.py "./rezept/" "./recipes.json"
       - name: Setup Pages
