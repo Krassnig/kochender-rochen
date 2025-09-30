@@ -6,8 +6,11 @@ Süß, Milchprodukt
 
 ## Zutaten
 
-- 3 Bananen (sehr reif)
+- 3 sehr reife Bananen
 - Milch
+- Schlag (Optional)
+- Zimt (Optional)
+- Salz (Optional)
 
 ## Equipment
 
@@ -17,9 +20,12 @@ Süß, Milchprodukt
 
 ## Zubereitung
 
-Zuerst muss man warten bis die Bananen komplett braun sind.
+Zuerst muss man warten bis die Bananen sehr reif sind.
 Ansonsten wird das Eis (leicht) bitter.
 Sobald die Bananen reif sind schneidet man sie in Stücke und steckt diese in den Gefrierschrank.
-Falls die Bananen länger gefroren sind ~10 Minuten auftauen lassen, damit sie leichter pürierbar sind.
-Nach dem antauen gibt man sie in eine Schüssel und gibt so viel Milch dazu das die Bananen um eine Fingerbreite nicht bedeckt sind.
-Dann püriert man das Ganze. Fertig ist das Bananeneis.
+Sind die Stücke zu groß tut man sich später schwer sie zu pürieren, genauso sollten die Stücke so in den Behälter gelegt werden, dass nicht zu sehr aneinander kleben.
+Dann gibt man die gefrorenen Banananen in die Schüssel.
+Dazu einen Schuss Schlag, einen halben Teelöffel Zimt und eine Prise Salz.
+Als letztes fügt man soviel Milch hinzu, dass noch ein bis zwei Daumen platz ist bevor die Bananen bedeckt wären.
+Dann püriert man das Ganze.
+Fertig ist das Bananeneis.
