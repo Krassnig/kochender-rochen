@@ -7,6 +7,7 @@ Nudeln, Gemüse
 ## Zutaten
 
 - Roter Zwiebel
+- Knoblauch
 - Thunfisch (Denns, Followfish, Thunfisch Filets im eigenen Saft)
 - 1x Gelbe Paprika
 - Champignons
