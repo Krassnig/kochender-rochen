@@ -14,7 +14,7 @@
 * Olivenöl
 * Salz
 * Pfeffer
-
+* Petersil | Oregano | Basilikum | Majoran
 
 ## Original Prompt to ChatGPT 3.5:
 
