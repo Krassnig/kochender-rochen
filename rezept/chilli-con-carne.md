@@ -1,4 +1,4 @@
-# Chili con Carne y Tofu
+# Chilli con Carne
 
 ## Tags
 
@@ -17,7 +17,7 @@ Scharf, Reis, Fleisch
 - Chili
 - Paprika Pulver
 - Majoran
-- Baisilikum
+- Basilikum
 - Salz
 - Pfeffer
 
