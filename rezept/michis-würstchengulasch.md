@@ -10,9 +10,19 @@ Fleisch, Kartoffel, Suppe
 - 1kg Kartoffel
 - 1kg Karotten
 - +500g Würstchen (am besten dicke Knackwürstchen)
-- 4 Lorbeerblätter
 - Bratöl
-- 3 Esslöffel geheime Gewürzmischung
+- 4 Loorberblätter
+- Supenwürze
+- SchabzigerKlee (2 Teelöffel)
+- Schafgarbe  (2 Teelöffel)
+- Ysop (2 Teelöffel)
+- Majoran (2 Teelöffel)
+- Salz (2 Teelöffel)
+- Pfeffer (1 Teelöffel)
+- Bockshornklee (1 Teelöffel)
+- Thymian (1 Teelöffel)
+- Rosmarin (1 Teelöffel)
+- Paprika Pulver (1 Teelöffel)
 
 ## Equipment
 
@@ -27,5 +37,5 @@ Beides anbraten (zuerst auf maximaler Stufe dann zurückschalten wenn man mit de
 Wenn angebraten dann den Kochtopf zur Hälfte mit Wasser füllen.
 Kartoffel und Karotten dazu geben und das Wasser zum köcheln bringen.
 Danach auf Stufe 1/6 zurückschalten sodass es leicht köchelt.
-Geheime Gewürzmischung hineingeben.
+Gewürzmischung hineingeben.
 30 Minuten köcheln lassen.
